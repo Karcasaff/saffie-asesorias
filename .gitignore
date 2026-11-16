@@ -3,3 +3,10 @@ dist/
 .vercel
 .env
 *.local
+.env*
+respaldo_2026-08-22/
+*.xlsx
+page.html
+page_utf8.txt
+run_vite.bat
+Agent.md
