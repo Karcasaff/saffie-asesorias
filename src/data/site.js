@@ -15,7 +15,7 @@ export const site = {
   description:
     'Inventario de bienes reposseidos bancarios libres de gravámenes. Compra directa, precio UF transparente, asesoría hipotecaria incluida.',
   // [PLACEHOLDER] URL canónica — reemplazar al comprar dominio propio
-  url: import.meta.env.VITE_SITE_URL || 'https://saffie-asesorias.vercel.app',
+  url: import.meta.env.VITE_SITE_URL || 'https://saffie-propiedades.vercel.app',
 
   // [PLACEHOLDER] Datos de contacto oficiales pendientes
   contact: {
