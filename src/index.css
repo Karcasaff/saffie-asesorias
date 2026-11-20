@@ -3391,3 +3391,32 @@ main {
 .investment-calculator tbody tr:hover {
   background: var(--cream);
 }
+
+/* Tarjeta sin foto */
+.prop-card__media-placeholder {
+  position: relative;
+  display: block;
+  overflow: hidden;
+  aspect-ratio: 16 / 11;
+  background: var(--cream);
+  border: 1px solid var(--line);
+  color: var(--ink-mute);
+  font-size: 0.8rem;
+  text-align: center;
+  padding-top: 35%;
+}
+.prop-card__media-empty {
+  display: inline-block;
+  margin-top: 0.6rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+/* Precio CLP secundario */
+.prop-card__price--clp {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--ink-mute);
+  margin-left: 0.5rem;
+}

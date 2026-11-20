@@ -1,7 +1,8 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import { useParams, Link } from 'react-router-dom'
 import { getBySlug, getSimilar, formatInvestmentStatus } from '../data/properties.js'
 import { formatUF } from '../utils/format.js'
+import { getUF, fmtCLP, fmtUF } from '../utils/uf.js'
 import { whatsappLink, waMessages } from '../utils/whatsapp.js'
 import { useSEO } from '../hooks/useSEO.js'
 import { site } from '../data/site.js'
@@ -14,6 +15,14 @@ export default function PropiedadDetalle() {
   const property = getBySlug(slug)
   const [activeImg, setActiveImg] = useState(0)
   const [copied, setCopied] = useState(false)
+  const [ufValor, setUfValor] = useState(null)
+  useEffect(() => { getUF().then(setUfValor) }, [])
+
+  const clp = ufValor != null && property.price != null
+    ? Math.round(property.price * ufValor)
+    : property.price_clp
+
+  const status = property.status || 'disponible'
 
   useSEO({
     title: property ? `${property.title} — Venta en ${property.commune}` : 'Propiedad no encontrada',
@@ -38,7 +47,7 @@ export default function PropiedadDetalle() {
           },
           offers: {
             '@type': 'Offer',
-            price: property.price,
+            price: property.price != null ? property.price : undefined,
             priceCurrency: 'CLF',
             availability:
               property.status === 'disponible'
@@ -97,13 +106,24 @@ export default function PropiedadDetalle() {
           {/* GALERÍA */}
           <div className="detail__gallery" data-reveal>
             <div className="detail__main-img">
-              <img src={property.images[activeImg]} alt={`${property.title} — imagen ${activeImg + 1}`} />
-              <span className="prop-card__badge prop-card__badge--venta">
-                Venta
-              </span>
+              {property.images && property.images.length > 0 ? (
+                <>
+                  <img src={property.images[activeImg]} alt={`${property.title} — imagen ${activeImg + 1}`} />
+                  <span className="prop-card__badge prop-card__badge--venta">
+                    Venta
+                  </span>
+                </>
+              ) : (
+                <div className="prop-card__media-placeholder">
+                  <span className="prop-card__badge prop-card__badge--venta">
+                    Venta
+                  </span>
+                  <span className="prop-card__media-empty">Sin foto</span>
+                </div>
+              )}
             </div>
             <div className="detail__thumbs" role="tablist" aria-label="Galería de imágenes">
-              {property.images.map((img, i) => (
+              {(property.images || []).map((img, i) => (
                 <button
                   key={i}
                   type="button"
@@ -126,7 +146,7 @@ export default function PropiedadDetalle() {
                 <div>
                   <h1 className="detail__title">{property.title}</h1>
                   <p className="detail__loc">
-                    {property.neighborhood}, {property.commune} · Cód. {property.code}
+                    {property.neighborhood ? property.neighborhood + ', ' : ''}{property.commune || ''} · Cód. {property.code}
                   </p>
                 </div>
 
@@ -143,30 +163,42 @@ export default function PropiedadDetalle() {
               </header>
 
               <ul className="detail__features-strip" data-reveal>
-                <li>
-                  <b>{property.bedrooms}</b>
-                  <span>Dormitorios</span>
-                </li>
-                <li>
-                  <b>{property.bathrooms}</b>
-                  <span>Baños</span>
-                </li>
-                <li>
-                  <b>{property.parking || 0}</b>
-                  <span>Estac.</span>
-                </li>
-                <li>
-                  <b>{property.storage ? 'Sí' : 'No'}</b>
-                  <span>Bodega</span>
-                </li>
-                <li>
-                  <b>{property.capRate}%</b>
-                  <span>Cap Rate</span>
-                </li>
-                <li>
-                  <b>{formatInvestmentStatus(property.investmentStatus)}</b>
-                  <span>Estado</span>
-                </li>
+                {property.bedrooms != null && (
+                  <li>
+                    <b>{property.bedrooms}</b>
+                    <span>Dormitorios</span>
+                  </li>
+                )}
+                {property.bathrooms != null && (
+                  <li>
+                    <b>{property.bathrooms}</b>
+                    <span>Baños</span>
+                  </li>
+                )}
+                {property.parking != null && property.parking > 0 && (
+                  <li>
+                    <b>{property.parking}</b>
+                    <span>Estac.</span>
+                  </li>
+                )}
+                {property.storage != null && (
+                  <li>
+                    <b>{property.storage ? 'Sí' : 'No'}</b>
+                    <span>Bodega</span>
+                  </li>
+                )}
+                {property.capRate != null && (
+                  <li>
+                    <b>{property.capRate}%</b>
+                    <span>Cap Rate</span>
+                  </li>
+                )}
+                {property.investmentStatus != null && (
+                  <li>
+                    <b>{formatInvestmentStatus(property.investmentStatus)}</b>
+                    <span>Estado</span>
+                  </li>
+                )}
               </ul>
 
               {property.capRate != null && property.projectedRent != null && (
@@ -194,7 +226,7 @@ export default function PropiedadDetalle() {
 
               <h2 className="detail__h2" data-reveal>Características</h2>
               <ul className="check-list" data-reveal>
-                {property.features.map((f) => (
+                {(property.features || []).map((f) => (
                   <li key={f}>{f}</li>
                 ))}
               </ul>
@@ -206,8 +238,14 @@ export default function PropiedadDetalle() {
                 <div className="detail__price-row">
                   <div>
                     <small>Precio de venta</small>
-                    <strong>{formatUF(property.price)}</strong>
+                    <strong>{fmtUF(property.price)}</strong>
                   </div>
+                  {clp != null && (
+                    <div className="detail__expenses">
+                      <small>Valor aproximado (CLP)</small>
+                      <span>{fmtCLP(clp)}</span>
+                    </div>
+                  )}
                   {property.expenses != null && (
                     <div className="detail__expenses">
                       <small>Gastos comunes</small>
@@ -216,8 +254,8 @@ export default function PropiedadDetalle() {
                   )}
                 </div>
 
-                <span className={`detail__status detail__status--${property.status}`}>
-                  {property.status.charAt(0).toUpperCase() + property.status.slice(1)}
+                <span className={`detail__status detail__status--${status}`}>
+                  {status.charAt(0).toUpperCase() + status.slice(1)}
                 </span>
 
                 {waVisit && (

@@ -1,0 +1,1113 @@
+{
+  "count": 113,
+  "properties": [
+    {
+      "lista": "LISTA 1",
+      "numero": 1.0,
+      "direccion": "LOS MAITENES N°12.010 C- N°37 CASAS DE MANTAGUA",
+      "comuna": "QUINTERO",
+      "region": "V",
+      "rol": "617-286",
+      "situacion": "Súp.Útil 194,80 Terreno 606,07 m2",
+      "tasacion_uf": 9500.0,
+      "estado": "Impecable. Con llaves.",
+      "fotos_drive": "https://drive.google.com/drive/folders/1WJIeOQ97g9foKZZ30G77H7Xl9ySzqRBM?usp=sharing"
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 2.0,
+      "direccion": "AVDA. PARQUE NORTE 200 DP.1305 BD.138 BOX 765",
+      "comuna": "ALGARROBO",
+      "region": "V",
+      "rol": "1663-125/278/346 S",
+      "situacion": "Súp.útil 73,75 m2 Terraza 8,11 m2",
+      "tasacion_uf": 4800.0,
+      "estado": "Desocupado con llaves.",
+      "fotos_drive": "https://drive.google.com/drive/folders/1y9GQ5PhJFp5SU5h6b7mlNfx5mjHOgBa7?usp=sharing"
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 3.0,
+      "direccion": "4 NORTE N°586 DEPTO. 203",
+      "comuna": "VIÑA DEL MAR",
+      "region": "V",
+      "rol": "Rol 49,26",
+      "situacion": "Súp.útil 82,24",
+      "tasacion_uf": 3850.0,
+      "estado": "Desocupado con llaves.",
+      "fotos_drive": "https://drive.google.com/drive/folders/1mA-OA4gQZRArbLJuPdUDOru11zXKRdiC?usp=sharing"
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 4.0,
+      "direccion": "SEIS Y MEDIO ORIENTE N°151 DEPTO.205 BD 70 BOX 24",
+      "comuna": "VIÑA DEL MAR",
+      "region": "V",
+      "rol": "Rol 40-24/187/233",
+      "situacion": "Súp.útil 87,41 Terraza 34,35 mts.",
+      "tasacion_uf": 5900.0,
+      "estado": "Desocupado con llaves",
+      "fotos_drive": "https://drive.google.com/drive/folders/1EpzTGy3FQ1VAP3TCiUvGtgcyBQS55EMr?usp=sharing"
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 5.0,
+      "direccion": "INES DE SUAREZ 7763 DEPTO 403 BD 16 BOX 40",
+      "comuna": "LA FLORIDA",
+      "region": "RM",
+      "rol": null,
+      "situacion": null,
+      "tasacion_uf": null,
+      "estado": "Desocupado con llaves.",
+      "fotos_drive": "https://drive.google.com/drive/folders/1funDH0TjxFf3wcAL2n37D_xJDweNCGiy?usp=sharing"
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 6.0,
+      "direccion": "PJE LA PERGOLA N°391",
+      "comuna": "LA FLORIDA",
+      "region": "RM",
+      "rol": null,
+      "situacion": null,
+      "tasacion_uf": null,
+      "estado": "Desocupado con llaves.",
+      "fotos_drive": null
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 7.0,
+      "direccion": "CAMINO PUBLICO A EL YECO N°630 DEPTO. 1804 BOX 49",
+      "comuna": "ALGARROBO",
+      "region": "V",
+      "rol": "Rol 295-122",
+      "situacion": "Súp.útil 48 mts",
+      "tasacion_uf": 3593.0,
+      "estado": "Desocupado sin llaves.",
+      "fotos_drive": "https://drive.google.com/drive/folders/1e8vRxNERmVDqcpfjywD2j0omzL2akPjl?usp=sharing"
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 8.0,
+      "direccion": "CAMINO PUBLICO A EL YECO N°630 DEPTO. 207 BOX 82",
+      "comuna": "ALGARROBO",
+      "region": "V",
+      "rol": "Rol 295-122",
+      "situacion": "Súp.útil 61 mts Terraza 8,51",
+      "tasacion_uf": 3270.0,
+      "estado": "Desocupado sin llaves.",
+      "fotos_drive": "https://drive.google.com/drive/folders/1e8vRxNERmVDqcpfjywD2j0omzL2akPjl?usp=sharing"
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 9.0,
+      "direccion": "AV.HALIMEDA ORIENTE N°1630 DEPTO. D-1506 BOD.154 BOX E-194",
+      "comuna": "VIÑA DEL MAR",
+      "region": "V",
+      "rol": "Rol 4807-119/340/593",
+      "situacion": "Súp.útil 93,07 mtrs. Terraza 14 mt",
+      "tasacion_uf": 5980.0,
+      "estado": "Desocupado con llaves.",
+      "fotos_drive": "https://drive.google.com/drive/folders/17qhk11wXi9tctt-eYS1Yqpv2hn5Dh3kY?usp=sharing"
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 10.0,
+      "direccion": "GREGORIO MARAÑON N°2575 DEPTO. 806 BOD.10 BOX 20",
+      "comuna": "VIÑA DEL MAR",
+      "region": "V",
+      "rol": "Rol 1194-79/131",
+      "situacion": "Súp.útil 51,41,mtrs. Terraza 4,68 mt.",
+      "tasacion_uf": 2616.0,
+      "estado": "Desocupado con llaves",
+      "fotos_drive": "https://drive.google.com/drive/folders/1CgDG88Nf8X5CXNUAr9-o9UsI1ECwjVeU?usp=sharing"
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 11.0,
+      "direccion": "AV. MATTA N°2189 DPTO.2004",
+      "comuna": "VALPARAISO",
+      "region": "V",
+      "rol": "Rol 8295-364",
+      "situacion": "Súp.útil 52,20 mtrs. Terraza 3,16",
+      "tasacion_uf": 2499.0,
+      "estado": "Desocupado con llaves.",
+      "fotos_drive": "https://drive.google.com/drive/folders/1fh3Kmx1aRvrUq5CubtOxOWrxv81MPN8S?usp=sharing"
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 12.0,
+      "direccion": "APOSTOL SANTIAGO 32 DEPTO.2510 BD.255 BOX 196",
+      "comuna": "EST.CENTRAL",
+      "region": "RM",
+      "rol": "Rol 7014-433/861/622",
+      "situacion": "Súp.útil 39,39 mts.2 Terraza 2,98 mt2 (2d 2B)",
+      "tasacion_uf": 2290.0,
+      "estado": "Impecable. Con llaves.",
+      "fotos_drive": "https://drive.google.com/drive/folders/1cDthHbujlSqPythjZfdCIL-MzroYtQbp?usp=sharing"
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 13.0,
+      "direccion": "RUTA 626 HACIENDA LAS AÑAÑUCAS PARCELA 69",
+      "comuna": "LIMACHE",
+      "region": "V",
+      "rol": "Rol 1207-607",
+      "situacion": "Súp. Terreno 5.003 m2",
+      "tasacion_uf": 2451.0,
+      "estado": "Parcela de agrado sin casa",
+      "fotos_drive": null
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 14.0,
+      "direccion": "LIMACHE N° 1280 DEPTO. 1806 TORRE II BOD. B-143 BOX 129-B",
+      "comuna": "VIÑA DEL MAR",
+      "region": "V",
+      "rol": "Rol 6001-606/795/900",
+      "situacion": "Súp. Útil 63,61 Terraza 6,32",
+      "tasacion_uf": 4650.0,
+      "estado": "Ocupado con ex deudor, se va.",
+      "fotos_drive": "https://drive.google.com/drive/folders/12AV55ULzuDtvnaC6L_C8naDfVkXmCaVD?usp=sharing"
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 15.0,
+      "direccion": "SANTA PETRONILA N°38 DEPTO. 1108 BOX E-23",
+      "comuna": "EST.CENTRAL",
+      "region": "RM",
+      "rol": "Rol 7041-206/736",
+      "situacion": "Súp. Útil 44,07 Terraza 1,61",
+      "tasacion_uf": 2111.0,
+      "estado": "Desocupado con llaves",
+      "fotos_drive": null
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 16.0,
+      "direccion": "PASAJE VEINTISEIS N°457 PLAYA ANCHA",
+      "comuna": "VALPARAISO",
+      "region": "V",
+      "rol": "Rol 1273-6",
+      "situacion": "Súp. Útil 84,50 m2 Terreno 104",
+      "tasacion_uf": 1767.0,
+      "estado": "Con arrendatarios que muestran la propiedad.",
+      "fotos_drive": "https://drive.google.com/drive/folders/1GjGUMtIfb6NcwaoEQynkdRTZeUJpc8k8?usp=sharing"
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 17.0,
+      "direccion": "ENRIQUE MAC IVER N°261 DEPTO. 41",
+      "comuna": "SANTIAGO",
+      "region": "RM",
+      "rol": "Rol 97-170",
+      "situacion": "Súp. Útil 57,23 m2 Terraza 0",
+      "tasacion_uf": 1462.0,
+      "estado": "Desocupada sin llaves.",
+      "fotos_drive": null
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 18.0,
+      "direccion": "AV. SANTO DOMINGO N°4047 DEPTO. 801",
+      "comuna": "SANTIAGO",
+      "region": "RM",
+      "rol": "Rol 252-260",
+      "situacion": "Súp. Útil 30,52 m2 Terraza 2,47 m2",
+      "tasacion_uf": 1462.0,
+      "estado": "Ocupada con arrendatarios que se van .",
+      "fotos_drive": null
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 19.0,
+      "direccion": "CAMINO CORA S/N LOTE 7",
+      "comuna": "CALLE LARGA",
+      "region": "V",
+      "rol": "Rol 20-654",
+      "situacion": "Terreno 781,20 Constr. 164,97 m2",
+      "tasacion_uf": 5737.0,
+      "estado": "Desocupado con llaves.",
+      "fotos_drive": "https://drive.google.com/drive/folders/1VKDqAOWauA0z1boy6rhrGwEkZ6_OUVkT?usp=sharing"
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 20.0,
+      "direccion": "AMUNATEGUI N°1946, Dp. 202 T- D BOD.33 BOX 125 Recreo",
+      "comuna": "VIÑA DEL MAR",
+      "region": "V",
+      "rol": "Rol 947-702/779/492",
+      "situacion": "Súp.útil 127,85 Terraza 25,00 m2",
+      "tasacion_uf": 10395.0,
+      "estado": "Desocupado con llaves.",
+      "fotos_drive": "https://drive.google.com/drive/folders/15c62ikDvfZrhcbG_HtO9nT_synMvp2I1?usp=sharing"
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 21.0,
+      "direccion": "MANSO DE VELASCO N°16",
+      "comuna": "CURICÓ",
+      "region": null,
+      "rol": "Rol 41-1",
+      "situacion": "Súp.útil 110,20 Terreno 483 m2",
+      "tasacion_uf": null,
+      "estado": "Desocupada con llaves",
+      "fotos_drive": null
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 22.0,
+      "direccion": "PASAJE EL ABEDUL N°045",
+      "comuna": "LIMACHE",
+      "region": "V",
+      "rol": "Rol 342-55",
+      "situacion": "Súp.útil 198,80 Terreno 132,77",
+      "tasacion_uf": 3199.0,
+      "estado": "Ocupado con arrendatario.",
+      "fotos_drive": null
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 23.0,
+      "direccion": "PASEO LOS PINOS N°4 CONDOMINIO PINARES DE CURAUMA",
+      "comuna": "CURAUMA",
+      "region": "V",
+      "rol": "Rol 9539-35",
+      "situacion": "Súp.útil 115 m2 Terreno 369,96",
+      "tasacion_uf": 6105.0,
+      "estado": "Ocupado con arrendatario.",
+      "fotos_drive": null
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 24.0,
+      "direccion": "LT 20 COND VALLE DE LAS VIÑAS Y DICHOS DE AGUA",
+      "comuna": "CASABLANCA",
+      "region": "V",
+      "rol": "Rol 177-442",
+      "situacion": "Súp.útil 294,60 Terreno 4.701,20",
+      "tasacion_uf": 9950.0,
+      "estado": "Parcela con casa grande Desocupada con llaves",
+      "fotos_drive": null
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 1.0,
+      "direccion": "AV. MATTA N°2188 DEPTO. 2102 BODEGA 236",
+      "comuna": "VALPARAISO",
+      "region": "V",
+      "rol": "Rol 8295-370/499",
+      "situacion": "Súp. Útil 43,16 Terraza 4,44 m2",
+      "tasacion_uf": 2620.0,
+      "estado": "Ocupado con arrendatarios",
+      "fotos_drive": null
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 2.0,
+      "direccion": "PARCELA 40 SUBV. RESTO HIJUELA LA VIÑA",
+      "comuna": "CASABLANCA",
+      "region": "V",
+      "rol": "Rol 153-563",
+      "situacion": "Terreno 4.386 Mts2",
+      "tasacion_uf": 2061.0,
+      "estado": "Macal",
+      "fotos_drive": null
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 3.0,
+      "direccion": "HERMANOS TOMAS DARBOIS 170 EDIF.2 DEPTO.503",
+      "comuna": "LOS ANDES",
+      "region": "V",
+      "rol": "Rol 141-297",
+      "situacion": "Súp.útil 42.93 mt2 Terraza 2,23 m2",
+      "tasacion_uf": 1480.0,
+      "estado": "Desocupado sin llaves",
+      "fotos_drive": null
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 4.0,
+      "direccion": "GERMAN RIESCO 2232",
+      "comuna": "VALPARAISO",
+      "region": "V",
+      "rol": "Rol 8300-9",
+      "situacion": "Súp.útil 80,92 m2 Terreno 504 m2",
+      "tasacion_uf": 3422.0,
+      "estado": "Sin llaves.",
+      "fotos_drive": null
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 5.0,
+      "direccion": "CAMINO PUBLICO A EL YECO N°424 TORRE 3 DEPTO. 302 BOX 51",
+      "comuna": "ALGARROBO",
+      "region": "V",
+      "rol": "Rol 292-29",
+      "situacion": "Súp.útil 62 m2 Terraza 0",
+      "tasacion_uf": 3498.0,
+      "estado": "Desocupado con llaves.",
+      "fotos_drive": null
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 6.0,
+      "direccion": "PASAJE ARRAYANES N°1149",
+      "comuna": "QUILPUE",
+      "region": "V",
+      "rol": "Rol 1268-55",
+      "situacion": "Súp.útil 55,80 Terreno 60,80 m2",
+      "tasacion_uf": 1508.0,
+      "estado": "Desocupado sin llaves.",
+      "fotos_drive": null
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 7.0,
+      "direccion": "VALLE DEL PARAÍSO N°2907 EDIF.B DEPTO.103-B BOX E-37",
+      "comuna": "QUILPUE",
+      "region": "V",
+      "rol": "Rol ",
+      "situacion": null,
+      "tasacion_uf": null,
+      "estado": "Desocupado con llaves",
+      "fotos_drive": null
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 8.0,
+      "direccion": "CAMINO PUBLICO A EL YECO N°620 DEPTO. 1006 BOX 95",
+      "comuna": "ALGARROBO",
+      "region": "V",
+      "rol": "Rol 293-67",
+      "situacion": "Súp.útil 57,79 Terraza 8,0 m2",
+      "tasacion_uf": 3920.0,
+      "estado": "Por visitar",
+      "fotos_drive": null
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 9.0,
+      "direccion": "AV. SAN SAN MARTÍN N°710 CASA 10",
+      "comuna": "RINCONADA",
+      "region": "V",
+      "rol": "Rol 105-3",
+      "situacion": "Súp.útil 68,10 Terreno 184,09.-",
+      "tasacion_uf": 2393.0,
+      "estado": "Por visitar",
+      "fotos_drive": null
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 10.0,
+      "direccion": "NAVIO SAN MARTÍN N°345 EDIFICIO 1 DEPTO.1306",
+      "comuna": "VALPARAISO",
+      "region": "V",
+      "rol": "Rol 6312-100",
+      "situacion": "Súp.54,71 m2 Terraza 4,19 m2",
+      "tasacion_uf": 2530.0,
+      "estado": "Por visitar",
+      "fotos_drive": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "PEDRO AGUIRRE CERDA N°36",
+      "comuna": "QUILPUE",
+      "region": "V",
+      "superficie_m2": null,
+      "precio_clp": 3950.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "LOS LILENES LOTE G1 PARCELA 73 PARCELACIÓN SAN FCO.",
+      "comuna": "SAN ESTEBAN",
+      "region": "V",
+      "superficie_m2": 6105.0,
+      "precio_clp": 5340.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "BOULEVARD SAN CRISTOBAL N°112",
+      "comuna": "LAMPA",
+      "region": "RM",
+      "superficie_m2": 101.0,
+      "precio_clp": 3382.0,
+      "notas": "CONJ.BARRIO SANTO TOMÁS"
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "CALLE DOMINGO TOCORNAL N°329 DEP.31 BLOCK 8",
+      "comuna": "PUENTE ALTO",
+      "region": "RM",
+      "superficie_m2": 69.67,
+      "precio_clp": 1812.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "MANUEL ANTONIO TOCORNAL N°601 DEPTO N°202",
+      "comuna": "SANTIAGO",
+      "region": "RM",
+      "superficie_m2": 54.0,
+      "precio_clp": 2325.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "GENERAL CARRERA N°480 BARRIO DE REÑACA",
+      "comuna": "VIÑA DEL MAR",
+      "region": "V",
+      "superficie_m2": 406.0,
+      "precio_clp": 9690.0,
+      "notas": "LOCAL COMERCIAL"
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "AV IRARRAZAVAL N°3655",
+      "comuna": "ÑUÑOA",
+      "region": "RM",
+      "superficie_m2": 397.0,
+      "precio_clp": 24780.0,
+      "notas": "LOCAL COMERCIAL"
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "PADRE JOSE CIFUENTES GREZ N°864 DEPTO 1609",
+      "comuna": "INDEPENDENCIA",
+      "region": "RM",
+      "superficie_m2": 33.0,
+      "precio_clp": 1374.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "RANCHO CHAPARRAL PREDIO AGRICOLA LOTE 2",
+      "comuna": "COQUIMBO",
+      "region": "IV",
+      "superficie_m2": 7.0,
+      "precio_clp": 5132.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "AV VICUÑA MACKENNA N°1231 DEPTO 306 A",
+      "comuna": "SANTIAGO",
+      "region": "RM",
+      "superficie_m2": 38.0,
+      "precio_clp": 2026.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "JORGE ROSS N°1050 DEPTO.206 TORRE PONIENTE EDIF. MIRADOR",
+      "comuna": "VIÑA DEL MAR",
+      "region": "V",
+      "superficie_m2": 42.0,
+      "precio_clp": 1544.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "DOCTOR LUCAS SIERRA N°3557 DP.504 ESTACIÓN TOCOPILLA",
+      "comuna": "QUINTA NORMAL",
+      "region": "RM",
+      "superficie_m2": 48.0,
+      "precio_clp": 1430.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "AV. BRISAS DEL MAIPO N°0130 DEPTO.173",
+      "comuna": "LA CISTERNA",
+      "region": "RM",
+      "superficie_m2": 57.0,
+      "precio_clp": 1731.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "SAN DIEGO N°255 DEPTO. 2406",
+      "comuna": "SANTIAGO",
+      "region": "RM",
+      "superficie_m2": 27.0,
+      "precio_clp": 1343.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "INGLATERRA 1605 DEPTO. 1702 BD.74 Y 96",
+      "comuna": "SANTIAGO",
+      "region": "RM",
+      "superficie_m2": 75.0,
+      "precio_clp": 2923.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "AV. MARIA ROZAS VELÁSQUEZ 61 DPTO. 1219",
+      "comuna": "SANTIAGO",
+      "region": "RM",
+      "superficie_m2": 44.0,
+      "precio_clp": 1576.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "JORGE KENRICK N°780 DEPTO. 153 EDIF.E  JARDÍN SUIZO",
+      "comuna": "VALPARAISO",
+      "region": "V",
+      "superficie_m2": 56.0,
+      "precio_clp": 1802.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "LOCAL COMERCIAL LOC 1 OF 107 ESTAC. 23",
+      "comuna": "VIÑA DEL MAR",
+      "region": "V",
+      "superficie_m2": 70.0,
+      "precio_clp": 4494.0,
+      "notas": "LOCAL COMERCIAL"
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "AV. BORGOÑO N°15278 EDIFICIO LYON DEPTO 101. REÑACA",
+      "comuna": "VIÑA DEL MAR",
+      "region": "V",
+      "superficie_m2": 261.0,
+      "precio_clp": 14327.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "DEPARTAMENTO PJE 6 N°41 SITIO 6 MZ H \"TERRA VERDE\" BUIN",
+      "comuna": "SANTIAGO",
+      "region": "RM",
+      "superficie_m2": 59.0,
+      "precio_clp": 2020.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "DEPTO 402, LAGOS LAS TORRES 228 E.M. MARGA II ED.E",
+      "comuna": "QUILPUE",
+      "region": "V",
+      "superficie_m2": 47.0,
+      "precio_clp": 1637.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "CASA PJE LAS CATALPAS N°11967 POBL. CONDORES DE CHILE. EL BOSQUE",
+      "comuna": "SANTIAGO",
+      "region": "RM",
+      "superficie_m2": 120.0,
+      "precio_clp": 1870.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "DEPTO 54 EMILIO APEY N°403 EDIFICIO TAMARUGO COND. FRAY JORGE",
+      "comuna": "LA SERENA",
+      "region": "IV",
+      "superficie_m2": 63.0,
+      "precio_clp": 2736.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "DEPTO N° 1418 SANTA PETRONILA N°32 CONJ HAB. DOÑA PETRONILA",
+      "comuna": "ESTACION CENTRAL",
+      "region": "RM",
+      "superficie_m2": 29.0,
+      "precio_clp": 1103.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "DEPTO N° 820 ARGOMEDO N°350",
+      "comuna": "SANTIAGO",
+      "region": "RM",
+      "superficie_m2": 48.0,
+      "precio_clp": 3188.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "DEPTO N°1518 SANTA PETRONILA N°32 CONJ HAB. DOÑA PETRONILA",
+      "comuna": "ESTACION CENTRAL",
+      "region": "RM",
+      "superficie_m2": 29.0,
+      "precio_clp": 1117.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "LOTE 2A Y LOTE 2B CON AGUAS (72 ACCIONES EMBALSE C).STA ROSA TABALI.",
+      "comuna": "OVALLE",
+      "region": "IV",
+      "superficie_m2": 400.0,
+      "precio_clp": 35000.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "DEPARTAMENTO N° 1504, AV. VICUÑA MACKENNA PONIENTE 6501",
+      "comuna": "LA FLORIDA",
+      "region": "RM",
+      "superficie_m2": 75.0,
+      "precio_clp": 2850.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "AV. ECUADOR 4678 DPTO. 313-ESTACIÓN CENTRAL",
+      "comuna": "ESTACION CENTRAL",
+      "region": "RM",
+      "superficie_m2": 52.0,
+      "precio_clp": 1300.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "ROSAS 1339 DEPTO 1615. CON ESTAC Y BOD.",
+      "comuna": "SANTIAGO",
+      "region": "RM",
+      "superficie_m2": 61.0,
+      "precio_clp": 2550.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "ZENTENO N° 1482, DEPTO. 706-B, EDIFICIO CAPITAL DOS",
+      "comuna": "SANTIAGO",
+      "region": "RM",
+      "superficie_m2": 39.0,
+      "precio_clp": 1100.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "LOS PINOS N° 937, TORRE A, DEPTO. 905",
+      "comuna": "VALPARAISO",
+      "region": "V",
+      "superficie_m2": 64.0,
+      "precio_clp": 2000.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "AV. MARÍA ROZAS VELÁSQUEZ 61, DEPTO. 420",
+      "comuna": "ESTACION CENTRAL",
+      "region": "RM",
+      "superficie_m2": 30.0,
+      "precio_clp": 1000.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "AV. BULNES N° 139 DEPTO 24 SANTIAGO",
+      "comuna": "SANTIAGO",
+      "region": "RM",
+      "superficie_m2": 93.0,
+      "precio_clp": 3411.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "AV. BRISAS DEL MAIPO N° 0130, DEPTO. 173",
+      "comuna": "LA CISTERNA",
+      "region": "RM",
+      "superficie_m2": 57.0,
+      "precio_clp": 1731.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "MAPOCHO N°1522, DEPTO. 2401",
+      "comuna": "SANTIAGO",
+      "region": "RM",
+      "superficie_m2": 28.0,
+      "precio_clp": 1212.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "ESTADO N° 115, OFICINA 1301",
+      "comuna": "SANTIAGO",
+      "region": "RM",
+      "superficie_m2": 119.0,
+      "precio_clp": 3142.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "AV. TORO MAZOTE 150 DPTO. DEPTO 1008",
+      "comuna": "ESTACION CENTRAL",
+      "region": "RM",
+      "superficie_m2": 47.0,
+      "precio_clp": 1890.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "CALLE JUANA ATALA DE HIRMAS N° 601 DEPARTAMENTO B908",
+      "comuna": "RENCAQ",
+      "region": "RM",
+      "superficie_m2": 45.0,
+      "precio_clp": 1759.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "PARCELA DE AGRADO, ESTANCIA LAS ÁNIMAS ORIENTE, LT 3 A- 1 - 5, CARMÍN DEL ELQUI.",
+      "comuna": "LA SERENA",
+      "region": "IV",
+      "superficie_m2": 5056.0,
+      "precio_clp": 1755.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "DEPTO. N° 2202, ALVAREZ DE TOLEDO N° 730",
+      "comuna": "SAN MIGUEL",
+      "region": "RM",
+      "superficie_m2": 38.0,
+      "precio_clp": 1875.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "ABTAO N° 24, DEPTO. # 813",
+      "comuna": "ESTACION CENTRAL",
+      "region": "RM",
+      "superficie_m2": 22.0,
+      "precio_clp": 1120.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "DEPTO. N°905, AV. PACÍFICO 4155",
+      "comuna": "LA SERENA",
+      "region": "IV",
+      "superficie_m2": 64.0,
+      "precio_clp": 3208.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "DEPTO N° 22, BLOCK 4, CALLE LAS AZUCENAS 890",
+      "comuna": "VIÑA DEL MAR",
+      "region": "V",
+      "superficie_m2": 45.0,
+      "precio_clp": 1103.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "DEPTO N° 1502, MORANDE 626, SANTIAGO",
+      "comuna": "SANTIAGO",
+      "region": "RM",
+      "superficie_m2": 36.0,
+      "precio_clp": 1635.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "DEPTO. N° 4076, JOSÉ MIGUEL CARRERA 130",
+      "comuna": "LA FLORIDA",
+      "region": "RM",
+      "superficie_m2": 59.0,
+      "precio_clp": 2202.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "DEPTO. N° 308, COLÓN N° 6477 Y 6479",
+      "comuna": "LA CISTERNA",
+      "region": "RM",
+      "superficie_m2": 47.0,
+      "precio_clp": 1622.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "CALLE LUCCA N° 3031, VILLA VISTA SUR",
+      "comuna": "RANCAGUA",
+      "region": "VI",
+      "superficie_m2": 65.0,
+      "precio_clp": 2086.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "DPTO. N° 2013, CALLE CRUZ N° 1275",
+      "comuna": "INDEPENDENCIA",
+      "region": "RM",
+      "superficie_m2": 47.0,
+      "precio_clp": 2249.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "DEPTO. N° 1005 AV. VICUÑA MACKENNA PONIENTE N° 6436",
+      "comuna": "LA FLORIDA",
+      "region": "RM",
+      "superficie_m2": 58.0,
+      "precio_clp": 2510.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "CALLE FIDIAS N°114 DEPTO.410",
+      "comuna": "ÑUÑOA",
+      "region": "RM",
+      "superficie_m2": 82.0,
+      "precio_clp": 2879.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "DEPTO. N° 2006, PROLONGACIÓN 5 ORIENTE N° 0277, EDIFICIO VIÑA PARK IV",
+      "comuna": "VIÑA DEL MAR",
+      "region": "V",
+      "superficie_m2": 39.0,
+      "precio_clp": 2601.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "ARGOMEDO N°344 DPTO. 523 ESTAC.321 BODEGA 191",
+      "comuna": "SANTIAGO",
+      "region": "RM",
+      "superficie_m2": 34.0,
+      "precio_clp": 2316.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "CONDE MAULE N°4470 DEPTO. 2412",
+      "comuna": "E. CENTRAL",
+      "region": "RM",
+      "superficie_m2": 31.0,
+      "precio_clp": 1525.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "AV. VALLE ORIENTE N°911",
+      "comuna": "MACHALÍ",
+      "region": "VI",
+      "superficie_m2": 1958.0,
+      "precio_clp": 10797.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "EL TANGUE 27 LOTES LOTES 27-A3",
+      "comuna": "COQUIMBO",
+      "region": "IV",
+      "superficie_m2": 5000.0,
+      "precio_clp": 4700.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "EMILIANO ZAPATA N°916",
+      "comuna": "RECOLETA",
+      "region": "RM",
+      "superficie_m2": 56.0,
+      "precio_clp": 1548.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "JOSE MIGUEL DE LA BARRA N°508 DEPTO. 14",
+      "comuna": "SANTIAGO",
+      "region": "RM",
+      "superficie_m2": 189.0,
+      "precio_clp": 7399.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "AV. LAS CONDES N°10465 OFICINA 805-A",
+      "comuna": "LAS CONDES",
+      "region": "RM",
+      "superficie_m2": 58.0,
+      "precio_clp": 5235.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "AV. QVDA VERDE N°602, PLAYA ANCHA (Súp. 113 m2 constr. 200 Terreno)",
+      "comuna": "VALPARAISO",
+      "region": "V",
+      "superficie_m2": 113.0,
+      "precio_clp": 2488.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "BEAUCHEFF N°199 DEPTO.906 ESTAC.26",
+      "comuna": "VALPARAISO",
+      "region": "V",
+      "superficie_m2": 35.0,
+      "precio_clp": 1818.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "SERRANO N°932 DEPTO. 1207",
+      "comuna": "IQUIQUE",
+      "region": "I",
+      "superficie_m2": 56.0,
+      "precio_clp": 2723.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "ARTURO PRAT N°1312 DEPTO.1302 ESTAC. 124 ESPACIO PRAT",
+      "comuna": "SANTIAGO",
+      "region": "RM",
+      "superficie_m2": 60.0,
+      "precio_clp": 3225.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "GENERAL SAAVEDRA N°1247 DEPTO. 1703",
+      "comuna": "INDEPENDENCIA",
+      "region": "RM",
+      "superficie_m2": 49.0,
+      "precio_clp": 2297.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 2",
+      "direccion": "CARRIÓN N°1346 DEPTO. 1616 EDIFICIO CARRIÓN",
+      "comuna": "INDEPENDENCIA",
+      "region": "RM",
+      "superficie_m2": 28.0,
+      "precio_clp": 1288.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 3",
+      "numero": 1.0,
+      "direccion": "GENERAL MITRE N°158 CERRO BARON",
+      "comuna": "VALPARAISO",
+      "region": "V",
+      "situacion": "Súp.útil 482m2 Terreno 208m2.-",
+      "tasacion_uf": 16110.0
+    },
+    {
+      "lista": "LISTA 3",
+      "numero": 2.0,
+      "direccion": "PEREZ VALENZUELA N°1686 CONSULTA N°1 SUBTERRANEO",
+      "comuna": "PROVIDENCIA",
+      "region": "RM",
+      "situacion": "Súp.útil 252m2",
+      "tasacion_uf": 7000.0
+    },
+    {
+      "lista": "LISTA 3",
+      "numero": 3.0,
+      "direccion": "MATIAS COUSIÑO N°82 OFICINA 301",
+      "comuna": "SANTIAGO",
+      "region": "RM",
+      "situacion": "Súp.útil 274m2",
+      "tasacion_uf": 8550.0
+    },
+    {
+      "lista": "LISTA 4",
+      "tipo": "DPTO",
+      "direccion": "BLANCO GARCES 154 TORRE B DEPT.1608",
+      "comuna": "ESTACION CENTRAL",
+      "precio_clp": 550000000.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 4",
+      "tipo": "DPTO",
+      "direccion": "TITAN 4880 EDIFICIO 4B DPT 2001",
+      "comuna": "ESTACION CENTRAL",
+      "precio_clp": 750000000.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 4",
+      "tipo": "DPTO",
+      "direccion": "SANTA PETRONILA 32 DPTO 1519 BD B78 ESTA 30",
+      "comuna": "ESTACION CENTRAL",
+      "precio_clp": 550000000.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 4",
+      "tipo": "DPTO",
+      "direccion": "CORONEL SOUPER 4060 TORRE A DPTO A904",
+      "comuna": "ESTACION CENTRAL",
+      "precio_clp": 530000000.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 4",
+      "tipo": "DPTO",
+      "direccion": "NICASIO RETAMALES 115 DEP 606 BD 43 ESTA 130",
+      "comuna": "ESTACION CENTRAL",
+      "precio_clp": 550000000.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 4",
+      "tipo": "CASA",
+      "direccion": "ALICAHUE 8887",
+      "comuna": "LA FLORIDA",
+      "precio_clp": 2650000000.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 4",
+      "tipo": "CASA",
+      "direccion": "DIRIGENTE DEPORTIVO ROLANDO SEREY O 694",
+      "comuna": "SAN FELIPE",
+      "precio_clp": 900000000.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 4",
+      "tipo": "DPTO",
+      "direccion": "FROILAN LAGOS 1500 APRT 206 A ESTAC Y BODEGA 36",
+      "comuna": "LA FLORIDA",
+      "precio_clp": 1350000000.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 4",
+      "tipo": "DPTO",
+      "direccion": "CORREA 1683 DPTO.101",
+      "comuna": "HUECHURABA",
+      "precio_clp": 1950000000.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 4",
+      "tipo": "TERRENO",
+      "direccion": "SANTA MARIA DE QUEPE 2 TERRENOS 5000M2 170Y177",
+      "comuna": "TEMUCO",
+      "precio_clp": 250000000.0,
+      "notas": null
+    },
+    {
+      "lista": "LISTA 4",
+      "tipo": "TERRENO",
+      "direccion": "PLANTA PARA GUARDAR CONTAINERS-CAMIONES  4,5 hctrs.",
+      "comuna": "PLACILLA",
+      "precio_clp": null,
+      "notas": null
+    }
+  ]
+}

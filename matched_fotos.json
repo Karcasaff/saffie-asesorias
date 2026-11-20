@@ -1,0 +1,631 @@
+{
+  "count": 15,
+  "properties": [
+    {
+      "lista": "LISTA 1",
+      "numero": 1.0,
+      "direccion": "LOS MAITENES N°12.010 C- N°37 CASAS DE MANTAGUA",
+      "comuna": "QUINTERO",
+      "region": "V",
+      "rol": "617-286",
+      "situacion": "Súp.Útil 194,80 Terreno 606,07 m2",
+      "tasacion_uf": 9500.0,
+      "estado": "Impecable. Con llaves.",
+      "fotos_drive": "https://drive.google.com/drive/folders/1WJIeOQ97g9foKZZ30G77H7Xl9ySzqRBM?usp=sharing",
+      "_match": {
+        "sku": 295,
+        "slug": "los-maitenes-casas-de-mantagua",
+        "url": "propiedades/295/los-maitenes-casas-de-mantagua/",
+        "type": "CASAS",
+        "title": "LOS MAITENES CASAS DE MANTAGUA",
+        "address": "LOS MAITENES N°12.010",
+        "photo": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/295-1.jpeg",
+        "photo_full": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/295-1.jpeg",
+        "dorm": 4,
+        "banos": 3,
+        "m2": null,
+        "parking": null,
+        "price_clp": 392000000,
+        "price_uf": 9500,
+        "date": "23 Abr, 2026",
+        "photos": [
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/295-1.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/295-2.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/295-3.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/295-4.jpeg"
+        ]
+      },
+      "_score": 0.95,
+      "images": [
+        "/fotos/295-1.jpg",
+        "/fotos/295-2.jpg",
+        "/fotos/295-3.jpg",
+        "/fotos/295-4.jpg"
+      ]
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 2.0,
+      "direccion": "AVDA. PARQUE NORTE 200 DP.1305 BD.138 BOX 765",
+      "comuna": "ALGARROBO",
+      "region": "V",
+      "rol": "1663-125/278/346 S",
+      "situacion": "Súp.útil 73,75 m2 Terraza 8,11 m2",
+      "tasacion_uf": 4800.0,
+      "estado": "Desocupado con llaves.",
+      "fotos_drive": "https://drive.google.com/drive/folders/1y9GQ5PhJFp5SU5h6b7mlNfx5mjHOgBa7?usp=sharing",
+      "_match": {
+        "sku": 314,
+        "slug": "departamento-algarrobo",
+        "url": "propiedades/314/departamento-algarrobo/",
+        "type": "DEPARTAMENTOS",
+        "title": "DEPARTAMENTO ALGARROBO",
+        "address": "AV PARQUE NORTE 200",
+        "photo": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/314-1.jpeg",
+        "photo_full": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/314-1.jpeg",
+        "dorm": 3,
+        "banos": 2,
+        "m2": null,
+        "parking": null,
+        "price_clp": 198000000,
+        "price_uf": 4800,
+        "date": "27 Mayo, 2026",
+        "photos": [
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/314-1.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/314-2.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/314-3.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/314-4.jpeg"
+        ]
+      },
+      "_score": 1.092857142857143,
+      "images": [
+        "/fotos/314-1.jpg",
+        "/fotos/314-2.jpg",
+        "/fotos/314-3.jpg",
+        "/fotos/314-4.jpg"
+      ]
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 3.0,
+      "direccion": "4 NORTE N°586 DEPTO. 203",
+      "comuna": "VIÑA DEL MAR",
+      "region": "V",
+      "rol": "Rol 49,26",
+      "situacion": "Súp.útil 82,24",
+      "tasacion_uf": 3850.0,
+      "estado": "Desocupado con llaves.",
+      "fotos_drive": "https://drive.google.com/drive/folders/1mA-OA4gQZRArbLJuPdUDOru11zXKRdiC?usp=sharing",
+      "_match": {
+        "sku": 293,
+        "slug": "4-norte-n586-via-del-mar",
+        "url": "propiedades/293/4-norte-n586-via-del-mar/",
+        "type": "DEPARTAMENTOS",
+        "title": "4 NORTE N°586 VIÑA DEL MAR",
+        "address": "4 NORTE N°586 VIÑA DEL MAR",
+        "photo": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/293-1.jpeg",
+        "photo_full": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/293-1.jpeg",
+        "dorm": 3,
+        "banos": 2,
+        "m2": null,
+        "parking": null,
+        "price_clp": 158000000,
+        "price_uf": 3850,
+        "date": "23 Abr, 2026",
+        "photos": [
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/293-1.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/293-2.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/293-3.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/293-4.jpeg"
+        ]
+      },
+      "_score": 1.2,
+      "images": [
+        "/fotos/293-1.jpg",
+        "/fotos/293-2.jpg",
+        "/fotos/293-3.jpg",
+        "/fotos/293-4.jpg"
+      ]
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 4.0,
+      "direccion": "SEIS Y MEDIO ORIENTE N°151 DEPTO.205 BD 70 BOX 24",
+      "comuna": "VIÑA DEL MAR",
+      "region": "V",
+      "rol": "Rol 40-24/187/233",
+      "situacion": "Súp.útil 87,41 Terraza 34,35 mts.",
+      "tasacion_uf": 5900.0,
+      "estado": "Desocupado con llaves",
+      "fotos_drive": "https://drive.google.com/drive/folders/1EpzTGy3FQ1VAP3TCiUvGtgcyBQS55EMr?usp=sharing",
+      "_match": {
+        "sku": 294,
+        "slug": "6-y-medio-oriente-n151-via-del-mar",
+        "url": "propiedades/294/6-y-medio-oriente-n151-via-del-mar/",
+        "type": "DEPARTAMENTOS",
+        "title": "6 Y MEDIO ORIENTE N°151 VIÑA DEL MAR",
+        "address": "SEIS Y MEDIO ORIENTE N°151 VIÑA DEL MAR",
+        "photo": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/294-1.jpeg",
+        "photo_full": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/294-1.jpeg",
+        "dorm": 2,
+        "banos": 2,
+        "m2": null,
+        "parking": null,
+        "price_clp": 243000000,
+        "price_uf": 5900,
+        "date": "23 Abr, 2026",
+        "photos": [
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/294-1.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/294-2.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/294-3.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/294-4.jpeg"
+        ]
+      },
+      "_score": 1.1062500000000002,
+      "images": [
+        "/fotos/294-1.jpg",
+        "/fotos/294-2.jpg",
+        "/fotos/294-3.jpg",
+        "/fotos/294-4.jpg"
+      ]
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 5.0,
+      "direccion": "INES DE SUAREZ 7763 DEPTO 403 BD 16 BOX 40",
+      "comuna": "LA FLORIDA",
+      "region": "RM",
+      "rol": null,
+      "situacion": null,
+      "tasacion_uf": null,
+      "estado": "Desocupado con llaves.",
+      "fotos_drive": "https://drive.google.com/drive/folders/1funDH0TjxFf3wcAL2n37D_xJDweNCGiy?usp=sharing",
+      "_match": {
+        "sku": 357,
+        "slug": "ines-de-suarez",
+        "url": "propiedades/357/ines-de-suarez/",
+        "type": "DEPARTAMENTOS",
+        "title": "INES DE SUAREZ",
+        "address": "INES DE SUAREZ 7763 La Florida",
+        "photo": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/357-1.jpeg",
+        "photo_full": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/357-1.jpeg",
+        "dorm": 2,
+        "banos": 1,
+        "m2": null,
+        "parking": null,
+        "price_clp": 143500000,
+        "price_uf": null,
+        "date": "18 Agos, 2026",
+        "photos": [
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/357-1.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/357-2.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/357-3.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/357-4.jpeg"
+        ]
+      },
+      "_score": 1.1142857142857143,
+      "images": [
+        "/fotos/357-1.jpg",
+        "/fotos/357-2.jpg",
+        "/fotos/357-3.jpg",
+        "/fotos/357-4.jpg"
+      ]
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 7.0,
+      "direccion": "CAMINO PUBLICO A EL YECO N°630 DEPTO. 1804 BOX 49",
+      "comuna": "ALGARROBO",
+      "region": "V",
+      "rol": "Rol 295-122",
+      "situacion": "Súp.útil 48 mts",
+      "tasacion_uf": 3593.0,
+      "estado": "Desocupado sin llaves.",
+      "fotos_drive": "https://drive.google.com/drive/folders/1e8vRxNERmVDqcpfjywD2j0omzL2akPjl?usp=sharing",
+      "_match": {
+        "sku": 388,
+        "slug": "camino-el-yeco-algarrobo",
+        "url": "propiedades/388/camino-el-yeco-algarrobo/",
+        "type": "DEPARTAMENTOS",
+        "title": "CAMINO EL YECO ALGARROBO",
+        "address": "CAMINO PUBLICO A EL YECO N° 630 DEPTO 1804 Y DEPTO  207",
+        "photo": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/388-1.jpeg",
+        "photo_full": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/388-1.jpeg",
+        "dorm": 0,
+        "banos": 0,
+        "m2": null,
+        "parking": null,
+        "price_clp": 147000000,
+        "price_uf": 134000000,
+        "date": "30 DEPTO 1804",
+        "photos": [
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/388-1.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/388-2.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/388-3.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/388-4.jpeg"
+        ]
+      },
+      "_score": 1.2,
+      "images": [
+        "/fotos/388-1.jpg",
+        "/fotos/388-2.jpg",
+        "/fotos/388-3.jpg",
+        "/fotos/388-4.jpg"
+      ]
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 9.0,
+      "direccion": "AV.HALIMEDA ORIENTE N°1630 DEPTO. D-1506 BOD.154 BOX E-194",
+      "comuna": "VIÑA DEL MAR",
+      "region": "V",
+      "rol": "Rol 4807-119/340/593",
+      "situacion": "Súp.útil 93,07 mtrs. Terraza 14 mt",
+      "tasacion_uf": 5980.0,
+      "estado": "Desocupado con llaves.",
+      "fotos_drive": "https://drive.google.com/drive/folders/17qhk11wXi9tctt-eYS1Yqpv2hn5Dh3kY?usp=sharing",
+      "_match": {
+        "sku": 365,
+        "slug": "av-halimeda-oriente-n-1630",
+        "url": "propiedades/365/av-halimeda-oriente-n-1630/",
+        "type": "DEPARTAMENTOS",
+        "title": "AV HALIMEDA ORIENTE N° 1630",
+        "address": "AV HALIMEDA ORIENTE N° 1630",
+        "photo": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/365-1.jpeg",
+        "photo_full": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/365-1.jpeg",
+        "dorm": 3,
+        "banos": 3,
+        "m2": null,
+        "parking": null,
+        "price_clp": 247000000,
+        "price_uf": 5980,
+        "date": "31 Agos, 2026",
+        "photos": [
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/365-1.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/365-2.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/365-3.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/365-4.jpeg"
+        ]
+      },
+      "_score": 0.8600000000000001,
+      "images": [
+        "/fotos/365-1.jpg",
+        "/fotos/365-2.jpg",
+        "/fotos/365-3.jpg",
+        "/fotos/365-4.jpg"
+      ]
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 10.0,
+      "direccion": "GREGORIO MARAÑON N°2575 DEPTO. 806 BOD.10 BOX 20",
+      "comuna": "VIÑA DEL MAR",
+      "region": "V",
+      "rol": "Rol 1194-79/131",
+      "situacion": "Súp.útil 51,41,mtrs. Terraza 4,68 mt.",
+      "tasacion_uf": 2616.0,
+      "estado": "Desocupado con llaves",
+      "fotos_drive": "https://drive.google.com/drive/folders/1CgDG88Nf8X5CXNUAr9-o9UsI1ECwjVeU?usp=sharing",
+      "_match": {
+        "sku": 364,
+        "slug": "deparamento-en-gregorio-maraon-2575",
+        "url": "propiedades/364/deparamento-en-gregorio-maraon-2575/",
+        "type": "DEPARTAMENTOS",
+        "title": "DEPARAMENTO EN GREGORIO MARAÑON 2575",
+        "address": "GREGORIO MARAÑON 2575 D 806",
+        "photo": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/364-1.jpeg",
+        "photo_full": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/364-1.jpeg",
+        "dorm": 2,
+        "banos": 2,
+        "m2": null,
+        "parking": null,
+        "price_clp": 107000000,
+        "price_uf": 2616,
+        "date": "31 Agos, 2026",
+        "photos": [
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/364-1.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/364-2.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/364-3.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/364-4.jpeg"
+        ]
+      },
+      "_score": 0.95,
+      "images": [
+        "/fotos/364-1.jpg",
+        "/fotos/364-2.jpg",
+        "/fotos/364-3.jpg",
+        "/fotos/364-4.jpg"
+      ]
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 11.0,
+      "direccion": "AV. MATTA N°2189 DPTO.2004",
+      "comuna": "VALPARAISO",
+      "region": "V",
+      "rol": "Rol 8295-364",
+      "situacion": "Súp.útil 52,20 mtrs. Terraza 3,16",
+      "tasacion_uf": 2499.0,
+      "estado": "Desocupado con llaves.",
+      "fotos_drive": "https://drive.google.com/drive/folders/1fh3Kmx1aRvrUq5CubtOxOWrxv81MPN8S?usp=sharing",
+      "_match": {
+        "sku": 363,
+        "slug": "departamento-av-matta-2189-valparaiso",
+        "url": "propiedades/363/departamento-av-matta-2189-valparaiso/",
+        "type": "DEPARTAMENTOS",
+        "title": "DEPARTAMENTO AV MATTA 2189 VALPARAISO",
+        "address": "AV MATTA 2189 VALPARAISO D 2004",
+        "photo": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/363-1.jpeg",
+        "photo_full": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/363-1.jpeg",
+        "dorm": 2,
+        "banos": 2,
+        "m2": null,
+        "parking": null,
+        "price_clp": 102000000,
+        "price_uf": 2499,
+        "date": "31 Agos, 2026",
+        "photos": [
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/363-1.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/363-2.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/363-3.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/363-4.jpeg"
+        ]
+      },
+      "_score": 1.2,
+      "images": [
+        "/fotos/363-1.jpg",
+        "/fotos/363-2.jpg",
+        "/fotos/363-3.jpg",
+        "/fotos/363-4.jpg"
+      ]
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 12.0,
+      "direccion": "APOSTOL SANTIAGO 32 DEPTO.2510 BD.255 BOX 196",
+      "comuna": "EST.CENTRAL",
+      "region": "RM",
+      "rol": "Rol 7014-433/861/622",
+      "situacion": "Súp.útil 39,39 mts.2 Terraza 2,98 mt2 (2d 2B)",
+      "tasacion_uf": 2290.0,
+      "estado": "Impecable. Con llaves.",
+      "fotos_drive": "https://drive.google.com/drive/folders/1cDthHbujlSqPythjZfdCIL-MzroYtQbp?usp=sharing",
+      "_match": {
+        "sku": 358,
+        "slug": "apostol-santiago",
+        "url": "propiedades/358/apostol-santiago/",
+        "type": "DEPARTAMENTOS",
+        "title": "APOSTOL SANTIAGO",
+        "address": "APOSTOL SANTIAGO 32",
+        "photo": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/358-1.jpeg",
+        "photo_full": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/358-1.jpeg",
+        "dorm": 2,
+        "banos": 2,
+        "m2": null,
+        "parking": null,
+        "price_clp": 94000000,
+        "price_uf": 2290,
+        "date": "18 Agos, 2026",
+        "photos": [
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/358-1.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/358-2.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/358-3.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/358-4.jpeg"
+        ]
+      },
+      "_score": 0.95,
+      "images": [
+        "/fotos/358-1.jpg",
+        "/fotos/358-2.jpg",
+        "/fotos/358-3.jpg",
+        "/fotos/358-4.jpg"
+      ]
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 14.0,
+      "direccion": "LIMACHE N° 1280 DEPTO. 1806 TORRE II BOD. B-143 BOX 129-B",
+      "comuna": "VIÑA DEL MAR",
+      "region": "V",
+      "rol": "Rol 6001-606/795/900",
+      "situacion": "Súp. Útil 63,61 Terraza 6,32",
+      "tasacion_uf": 4650.0,
+      "estado": "Ocupado con ex deudor, se va.",
+      "fotos_drive": "https://drive.google.com/drive/folders/12AV55ULzuDtvnaC6L_C8naDfVkXmCaVD?usp=sharing",
+      "_match": {
+        "sku": 384,
+        "slug": "limache-n-1280-via-del-mar",
+        "url": "propiedades/384/limache-n-1280-via-del-mar/",
+        "type": "DEPARTAMENTOS",
+        "title": "LIMACHE N° 1280 VIÑA DEL MAR",
+        "address": "LIMACHE N° 1280 TORRE II VIÑA DEL MAR",
+        "photo": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/384-1.jpeg",
+        "photo_full": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/384-1.jpeg",
+        "dorm": 2,
+        "banos": 1,
+        "m2": null,
+        "parking": null,
+        "price_clp": 186000000,
+        "price_uf": 4650,
+        "date": "05 Nov, 2026",
+        "photos": [
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/384-1.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/384-2.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/384-3.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/384-4.jpeg"
+        ]
+      },
+      "_score": 1.092857142857143,
+      "images": [
+        "/fotos/384-1.jpg",
+        "/fotos/384-2.jpg",
+        "/fotos/384-3.jpg",
+        "/fotos/384-4.jpg"
+      ]
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 16.0,
+      "direccion": "PASAJE VEINTISEIS N°457 PLAYA ANCHA",
+      "comuna": "VALPARAISO",
+      "region": "V",
+      "rol": "Rol 1273-6",
+      "situacion": "Súp. Útil 84,50 m2 Terreno 104",
+      "tasacion_uf": 1767.0,
+      "estado": "Con arrendatarios que muestran la propiedad.",
+      "fotos_drive": "https://drive.google.com/drive/folders/1GjGUMtIfb6NcwaoEQynkdRTZeUJpc8k8?usp=sharing",
+      "_match": {
+        "sku": 386,
+        "slug": "pasaje-veintiseis-playa-ancha",
+        "url": "propiedades/386/pasaje-veintiseis-playa-ancha/",
+        "type": "CASAS",
+        "title": "PASAJE VEINTISEIS PLAYA ANCHA",
+        "address": "PJe Veintiseis N°457 Playa Ancha",
+        "photo": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/386-1.jpeg",
+        "photo_full": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/386-1.jpeg",
+        "dorm": 3,
+        "banos": 1,
+        "m2": null,
+        "parking": null,
+        "price_clp": 72000000,
+        "price_uf": 1767,
+        "date": "06 Nov, 2026",
+        "photos": [
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/386-1.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/386-2.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/386-3.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/386-4.jpeg"
+        ]
+      },
+      "_score": 0.95,
+      "images": [
+        "/fotos/386-1.jpg",
+        "/fotos/386-2.jpg",
+        "/fotos/386-3.jpg",
+        "/fotos/386-4.jpg"
+      ]
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 20.0,
+      "direccion": "AMUNATEGUI N°1946, Dp. 202 T- D BOD.33 BOX 125 Recreo",
+      "comuna": "VIÑA DEL MAR",
+      "region": "V",
+      "rol": "Rol 947-702/779/492",
+      "situacion": "Súp.útil 127,85 Terraza 25,00 m2",
+      "tasacion_uf": 10395.0,
+      "estado": "Desocupado con llaves.",
+      "fotos_drive": "https://drive.google.com/drive/folders/15c62ikDvfZrhcbG_HtO9nT_synMvp2I1?usp=sharing",
+      "_match": {
+        "sku": 385,
+        "slug": "amunategui-n-1946-via-del-mar",
+        "url": "propiedades/385/amunategui-n-1946-via-del-mar/",
+        "type": "DEPARTAMENTOS",
+        "title": "Amunategui N° 1946 VIÑA DEL MAR",
+        "address": "Amunategui N° 1946",
+        "photo": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/385-1.jpeg",
+        "photo_full": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/385-1.jpeg",
+        "dorm": 3,
+        "banos": 3,
+        "m2": null,
+        "parking": null,
+        "price_clp": 426000000,
+        "price_uf": 10395,
+        "date": "05 Nov, 2026",
+        "photos": [
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/385-1.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/385-2.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/385-3.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/385-4.jpeg"
+        ]
+      },
+      "_score": 1.2,
+      "images": [
+        "/fotos/385-1.jpg",
+        "/fotos/385-2.jpg",
+        "/fotos/385-3.jpg",
+        "/fotos/385-4.jpg"
+      ]
+    },
+    {
+      "lista": "LISTA 1",
+      "numero": 6.0,
+      "direccion": "PASAJE ARRAYANES N°1149",
+      "comuna": "QUILPUE",
+      "region": "V",
+      "rol": "Rol 1268-55",
+      "situacion": "Súp.útil 55,80 Terreno 60,80 m2",
+      "tasacion_uf": 1508.0,
+      "estado": "Desocupado sin llaves.",
+      "fotos_drive": null,
+      "_match": {
+        "sku": 370,
+        "slug": "casa-los-arrayanes-1149-quilpu",
+        "url": "propiedades/370/casa-los-arrayanes-1149-quilpu/",
+        "type": "CASAS",
+        "title": "CASA LOS ARRAYANES 1149, QUILPUÉ",
+        "address": "LOS ARRAYANES 1149, QUILPUÉ",
+        "photo": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/370-1.jpeg",
+        "photo_full": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/370-1.jpeg",
+        "dorm": 2,
+        "banos": 1,
+        "m2": null,
+        "parking": null,
+        "price_clp": 62000000,
+        "price_uf": 1508,
+        "date": "09 Sept, 2026",
+        "photos": [
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/370-1.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/370-2.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/370-3.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/370-4.jpeg"
+        ]
+      },
+      "_score": 0.95,
+      "images": [
+        "/fotos/370-1.jpg",
+        "/fotos/370-2.jpg",
+        "/fotos/370-3.jpg",
+        "/fotos/370-4.jpg"
+      ]
+    },
+    {
+      "lista": "LISTA 4",
+      "tipo": "CASA",
+      "direccion": "DIRIGENTE DEPORTIVO ROLANDO SEREY O 694",
+      "comuna": "SAN FELIPE",
+      "precio_clp": 900000000.0,
+      "notas": null,
+      "_match": {
+        "sku": 381,
+        "slug": "dirigente-deportivo-rolando-serey",
+        "url": "propiedades/381/dirigente-deportivo-rolando-serey/",
+        "type": "CASAS",
+        "title": "Dirigente Deportivo Rolando Serey",
+        "address": "Dirigente Deportivo Rolando Serey 694",
+        "photo": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/381-1.jpeg",
+        "photo_full": "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/381-1.jpeg",
+        "dorm": 2,
+        "banos": 1,
+        "m2": null,
+        "parking": null,
+        "price_clp": 90000000,
+        "price_uf": null,
+        "date": "21 Oct, 2026",
+        "photos": [
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/381-1.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/381-2.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/381-3.jpeg",
+          "https://www.asvicorp.cl/autoadministracion/bodegatec/catalogo/fotos_chicas/381-4.jpeg"
+        ]
+      },
+      "_score": 0.95,
+      "images": [
+        "/fotos/381-1.jpg",
+        "/fotos/381-2.jpg",
+        "/fotos/381-3.jpg",
+        "/fotos/381-4.jpg"
+      ]
+    }
+  ]
+}

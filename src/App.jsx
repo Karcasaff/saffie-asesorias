@@ -12,6 +12,7 @@ import Inversion from './pages/Inversion.jsx'
 import Legal from './pages/Legal.jsx'
 import Nosotros from './pages/Nosotros.jsx'
 import Portal from './pages/Portal.jsx'
+import Listado from './pages/Listado.jsx'
 import NotFound from './pages/NotFound.jsx'
 
 // Track page views on route change
@@ -70,6 +71,7 @@ export default function App() {
           <Route path="/legal" element={<Legal />} />
           <Route path="/nosotros" element={<Nosotros />} />
           <Route path="/portal" element={<Portal />} />
+          <Route path="/listado" element={<Listado />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </main>
