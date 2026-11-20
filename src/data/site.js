@@ -35,6 +35,7 @@ export const site = {
   // Navegación principal
   navigation: [
     { label: 'Bienes Reposeidos', href: '/propiedades' },
+    { label: 'Listado Completo', href: '/listado' },
     { label: 'Inversión', href: '/inversion' },
     { label: 'Legal & Documentos', href: '/legal' },
     { label: 'Nosotros', href: '/nosotros' },
