@@ -3,8 +3,10 @@ import { useSearchParams, Link } from 'react-router-dom'
 import { properties, getComunas, getPropertyTypes } from '../data/properties.js'
 import PropertyCard from '../components/ui/PropertyCard.jsx'
 import PageHero from '../components/ui/PageHero.jsx'
+import { whatsappLink } from '../utils/whatsapp.js'
+import { whatsappDefaultMessage } from '../data/site.js'
 
-// Página /propiedades — buscador inmobiliario con filtros, orden y vistas.
+// Página /propiedades — Buscador enfocado exclusivamente en Bienes Reposeídos
 export default function Propiedades() {
   const [params, setParams] = useSearchParams()
   const [view, setView] = useState('grid')
@@ -12,7 +14,6 @@ export default function Propiedades() {
   const [code, setCode] = useState('')
 
   const f = {
-    operacion: 'venta', // Hardcoded - solo venta
     tipo: params.get('tipo') || '',
     comuna: params.get('comuna') || '',
     dormitorios: params.get('dormitorios') || '',
@@ -30,7 +31,6 @@ export default function Propiedades() {
   const results = useMemo(() => {
     let list = [...properties]
 
-    // Solo propiedades en venta (todas lo son ahora)
     if (f.tipo) list = list.filter((p) => p.propertyType === f.tipo)
     if (f.comuna) list = list.filter((p) => p.commune === f.comuna)
     if (f.dormitorios) list = list.filter((p) => p.bedrooms >= Number(f.dormitorios))
@@ -58,36 +58,101 @@ export default function Propiedades() {
 
   const crumbs = [
     { label: 'Inicio', href: '/' },
-    { label: 'Propiedades', href: '/propiedades' },
+    { label: 'Bienes Reposeídos', href: '/propiedades' },
   ]
 
   return (
     <>
       <PageHero
-        eyebrow="Portafolio de Inversión"
-        title="Propiedades para Inversionistas"
-        lead="Selección curada con métricas de rentabilidad verificadas. Usa los filtros para encontrar la oportunidad correcta."
+        eyebrow="Catálogo Oficial"
+        title="Bienes Reposeídos y Recuperados"
+        lead="Inventario actualizado de propiedades bancarias e hipotecarias disponibles. Compra directa con precio en UF y pesos chilenos."
         crumbs={crumbs}
       />
 
       <section className="props-page">
         <div className="container">
+          {/* SECCIÓN HERO */}
+          <section
+            className="props-hero"
+            style={{
+              position: 'relative',
+              padding: '4rem 2rem',
+              borderRadius: '20px',
+              marginBottom: '2.5rem',
+              overflow: 'hidden',
+              color: '#fff',
+            }}
+          >
+            <img
+              src="https://images.unsplash.com/photo-1600596542815-7ad49c7330d5?auto=format&fit=crop&w=1920&q=80"
+              alt="Bienes Reposeídos"
+              style={{
+                position: 'absolute',
+                top: 0,
+                left: 0,
+                width: '100%',
+                height: '100%',
+                objectFit: 'cover',
+                zIndex: 0,
+                filter: 'brightness(0.55) contrast(1.1)',
+              }}
+              aria-hidden="true"
+            />
+            <div style={{ position: 'relative', zIndex: 1, maxWidth: '800px' }}>
+              <span className="eyebrow" style={{ color: '#e2e8f0', fontWeight: 600, fontSize: '0.85rem', letterSpacing: '0.3em', textTransform: 'uppercase', display: 'block', marginBottom: '1rem' }}>
+                Prosaffie · Bienes Reposeídos Bancarios en Chile
+              </span>
+              <h2 style={{ fontSize: '2.2rem', lineHeight: 1.25, marginBottom: '1rem', marginTop: 0, fontWeight: 600 }}>
+                Compra directa de bienes reposeídos y recuperados
+              </h2>
+              <p style={{ fontSize: '1.1rem', opacity: 0.95, maxWidth: '60ch', marginBottom: '1.5rem' }}>
+                Inventario bancario actualizado con precios en UF y pesos chilenos calculados al día (UF $41.371).
+              </p>
+              <div style={{ display: 'flex', gap: '0.75rem', flexWrap: 'wrap' }}>
+                <a href="/listado" className="btn btn--outline" style={{ borderColor: '#fff', color: '#fff', background: 'rgba(255,255,255,0.05)', padding: '0.9rem 1.5rem', fontSize: '1rem', borderRadius: '8px' }}>
+                  Ver Catálogo de Propiedades
+                </a>
+                <a
+                  href={whatsappLink(whatsappDefaultMessage)}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={{ backgroundColor: '#25D366', borderColor: '#25D366', color: '#fff', padding: '0.9rem 1.5rem', fontSize: '1rem', borderRadius: '8px', display: 'inline-flex', alignItems: 'center', gap: '0.5rem' }}
+                >
+                  💬 Contactar Asesor
+                </a>
+              </div>
+            </div>
+          </section>
+
+          {/* BARRA DE CONTACTO RÁPIDO */}
+          <div style={{ background: '#f8fafc', padding: '1.5rem', borderRadius: '12px', marginBottom: '2rem', display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '1rem', border: '1px solid #e2e8f0' }}>
+            <div>
+              <h3 style={{ fontSize: '1.1rem', marginBottom: '0.25rem', color: '#0f172a' }}>¿Necesitas asesoría inmediata sobre una propiedad?</h3>
+              <p style={{ fontSize: '0.95rem', color: '#64748b', margin: 0 }}>Te ayudamos con la revisión de antecedentes, tasación y oferta.</p>
+            </div>
+            <div style={{ display: 'flex', gap: '0.75rem', flexWrap: 'wrap' }}>
+              <a href={whatsappLink(whatsappDefaultMessage)} target="_blank" rel="noopener noreferrer" className="btn btn--primary" style={{ backgroundColor: '#25D366', borderColor: '#25D366', color: '#fff' }}>
+                Contactar Asesor
+              </a>
+              <Link to="/listado" className="btn btn--outline" style={{ display: 'inline-flex', alignItems: 'center' }}>
+                Descargar Excel Consolidado
+              </Link>
+            </div>
+          </div>
+
           {/* BARRA DE FILTROS */}
           <div className="filters" role="search" aria-label="Filtros de búsqueda">
             <div className="filters__row">
               <label className="field field--inline">
-                <span>Código</span>
+                <span>Código / Dirección</span>
                 <input
                   type="text"
-                  placeholder="Ej: SF-001"
+                  placeholder="Ej: SF-001 o Maitenes"
                   value={code}
                   onChange={(e) => setCode(e.target.value)}
                 />
               </label>
-
-              <Link to="/legal" className="btn btn--outline filters__legal-link" style={{ alignSelf: 'end' }}>
-                Solicitar Redacción Legal / Promesa
-              </Link>
             </div>
 
             <div className="filters__row filters__row--fields">
@@ -202,7 +267,7 @@ export default function Propiedades() {
           ) : (
             <div className="props-empty">
               <h3>Sin resultados para esta búsqueda</h3>
-              <p>Ajusta los filtros o escríbenos: buscamos propiedades fuera del portafolio publicado.</p>
+              <p>Ajusta los filtros o escríbenos directamente para revisar oportunidades fuera del catálogo web.</p>
             </div>
           )}
         </div>

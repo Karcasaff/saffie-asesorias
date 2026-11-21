@@ -9,38 +9,32 @@
 // ============================================================================
 
 export const site = {
-  name: 'Saffie',
-  legalName: 'Saffie Asesoría & Gestión Inmobiliaria SpA',
+  name: 'Prosaffie',
+  legalName: 'Prosaffie — Bienes Reposeídos',
   tagline: 'Bienes Reposeidos Bancarios',
   description:
-    'Inventario de bienes reposseidos bancarios libres de gravámenes. Compra directa, precio UF transparente, asesoría hipotecaria incluida.',
-  // [PLACEHOLDER] URL canónica — reemplazar al comprar dominio propio
-  url: import.meta.env.VITE_SITE_URL || 'https://saffie-propiedades.vercel.app',
+    'Inventario exclusivo de bienes reposeídos y recuperados bancarios en Chile. Compra directa, precio UF y pesos transparente.',
+  url: import.meta.env.VITE_SITE_URL || 'https://prosaffie.vercel.app',
 
-  // [PLACEHOLDER] Datos de contacto oficiales pendientes
   contact: {
-    email: 'contacto@saffieasesorias.cl', // [PLACEHOLDER]
-    phone: '+56 9 0000 0000', // [PLACEHOLDER]
-    whatsapp: import.meta.env.VITE_WHATSAPP_NUMBER || '56900000000', // [PLACEHOLDER]
+    email: 'contacto@prosaffie.cl',
+    phone: '+56 9 0000 0000',
+    whatsapp: import.meta.env.VITE_WHATSAPP_NUMBER || '56900000000',
     city: 'Santiago',
     country: 'Chile',
-    coverage: 'Santiago · Chile',
+    coverage: 'Chile',
   },
 
   social: [
-    { label: 'Instagram', href: '#' }, // [PLACEHOLDER]
-    { label: 'LinkedIn', href: '#' }, // [PLACEHOLDER]
+    { label: 'Instagram', href: '#' },
+    { label: 'LinkedIn', href: '#' },
   ],
 
-  // Navegación principal
   navigation: [
-    { label: 'Bienes Reposeidos', href: '/propiedades' },
-    { label: 'Listado Completo', href: '/listado' },
-    { label: 'Inversión', href: '/inversion' },
-    { label: 'Legal & Documentos', href: '/legal' },
-    { label: 'Nosotros', href: '/nosotros' },
+    { label: 'Bienes Reposeídos', href: '/propiedades' },
+    { label: 'Descargar Listado Excel', href: '/listado' },
   ],
 }
 
 export const whatsappDefaultMessage =
-  'Hola Saffie, quiero información sobre bien reposesido y asesoría de crédito hipotecario.'
+  'Hola Prosaffie, quiero información sobre bienes reposeidos y asesoría comercial.'

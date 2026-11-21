@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { Link, NavLink } from 'react-router-dom'
-import { site } from '../../data/site.js'
+import { site, whatsappDefaultMessage } from '../../data/site.js'
+import { whatsappLink } from '../../utils/whatsapp.js'
 import Logo from '../ui/Logo.jsx'
 
 export default function Header() {
@@ -29,8 +30,8 @@ export default function Header() {
       aria-label="Header principal"
     >
       <div className="container header__inner">
-        <Link to="/" className="header__brand" aria-label="Saffie — Inicio" onClick={close}>
-          <Logo variant="blue" size="md" />
+        <Link to="/" className="header__brand" aria-label="Prosaffie — Inicio" onClick={close}>
+          <span style={{ fontSize: '1.5rem', fontWeight: 'bold', color: '#0f172a' }}>Prosaffie</span>
         </Link>
 
         <nav
@@ -50,9 +51,9 @@ export default function Header() {
             </NavLink>
           ))}
 
-          <Link to="/inversion" className="btn btn--outline header__cta" onClick={close}>
-            Quiero hablar con un asesor
-          </Link>
+          <a href={whatsappLink(whatsappDefaultMessage)} target="_blank" rel="noopener noreferrer" className="btn btn--primary header__cta" onClick={close} style={{ backgroundColor: '#25D366', borderColor: '#25D366', color: '#fff' }}>
+            Contactar Asesor
+          </a>
         </nav>
 
         <button

@@ -1,9 +1,9 @@
 {
-  "name": "saffie-propiedades",
+  "name": "prosaffie",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "Sitio web oficial de Saffie — Asesoría & Gestión Inmobiliaria",
+  "description": "Sitio oficial de Prosaffie — Bienes Reposeídos",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
