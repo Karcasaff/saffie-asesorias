@@ -77,11 +77,12 @@ export default function Propiedades() {
             className="props-hero"
             style={{
               position: 'relative',
-              padding: '4rem 2rem',
+              padding: '5rem 2rem',
               borderRadius: '20px',
               marginBottom: '2.5rem',
               overflow: 'hidden',
               color: '#fff',
+              background: '#0e1a2b',
             }}
           >
             <img
@@ -95,7 +96,7 @@ export default function Propiedades() {
                 height: '100%',
                 objectFit: 'cover',
                 zIndex: 0,
-                filter: 'brightness(0.55) contrast(1.1)',
+                filter: 'brightness(0.45) contrast(1.1)',
               }}
               aria-hidden="true"
             />
